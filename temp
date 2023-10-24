@@ -3,9 +3,9 @@
 
 <head>
     <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Compass App</title>
-    </head>
+</head>
 
 <body>
     <h1>Wellcome to Compass - Digital Direction</h1>
@@ -13,16 +13,16 @@
     <h1>Privacy Policy</h1>
     <ul>
         <li>This is an independent application so it has no relation any other company</li>
-            <li>this app doesn't Collect the information of or about users in any impermissible or unauthorized
+        <li>this app doesn't Collect the information of or about users in any impermissible or unauthorized
             manner.</li>
-            <li>This app doesn't require any additional permission
+        <li>This app doesn't require any additional permission
             like SMS and Call Log Permissions, Location Permissions, etc.</li>
-            <li>This app does not collect any sensitive data. This app does not store any data of user.</li>
+        <li>This app does not collect any sensitive data. This app does not store any data of user.</li>
         <li>This app does not store any data </li>
-            <li>This app does not share and store your location.</li>
-        </ul>
-<h1>Contact us</h1>
-            <h4>adarsh dhakad</h4>
+        <li>This app does not share and store your location.</li>
+    </ul>
+    <h1>Contact us</h1>
+    <h4>adarsh dhakad</h4>
     <h5>email:</h5>
     <h3>
         <adarshdhakad50@gmail class="com">adarshdhakad50@gmail.com</adarshdhakad50@gmail>
